@@ -4,7 +4,7 @@ https://public.tableau.com/app/profile/marina.mikhailova/viz/AdwentureWorksProje
 
 For this dashboard I used AdventureWorks dataset Sales Order data that is located in my google account.
 Link: 
-https://docs.google.com/spreadsheets/d/1USCN2HdSb07gwpxbwceIc5xRIiEUiIrpKtMnPNdZtIk/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1VDJr1mKUVR7b6p0rB_eED3Nk8ym2WUg-BDSbIr2px8M/edit?usp=sharing
 
 
 I also additionally calculated Average profit by Customer using this query:
